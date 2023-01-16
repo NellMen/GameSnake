@@ -90,7 +90,7 @@ class Ui_MainWindow(object):
         window_y = 700
         pygame.init()
 
-        background_image = pygame.image.load('gacha.png')
+        background_image = pygame.image.load('gac.png')
 
         # окн название
         pygame.display.set_caption('SNAKE')
